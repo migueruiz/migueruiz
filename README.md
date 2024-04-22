@@ -22,24 +22,25 @@
 
 <!-- Languages Section -->
 ### Languages 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,php,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,php,js)](https://skillicons.dev)
 
 ### Framworks
 [![My Skills](https://skillicons.dev/icons?i=django,react,bootstrap)](https://skillicons.dev)
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nginx)](https://skillicons.dev)
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,md,sublime,vim)](https://skillicons.dev)
 
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
 
-
+### Team
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail,linkedin)](https://skillicons.dev)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
