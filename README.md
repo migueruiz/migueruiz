@@ -52,7 +52,7 @@
 <table align="center">
   <tr height="80">
   <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=reacts" alt="icon" width="32" height="32" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="32" height="32" />
       <br>React
     </td>
     <td align="center" width="96">
