@@ -23,6 +23,8 @@
 <!-- Languages Section -->
 ### Languages and Tools
 #### Backend
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <table align="center">
   <tr height="80">
     <td align="center" width="96">
