@@ -23,7 +23,7 @@
 <!-- Languages Section -->
 ### Languages and Tools
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=cpp,django,Python,Java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,django,python,java,php)](https://skillicons.dev)
 
 #### Frontend
 <table align="center">
