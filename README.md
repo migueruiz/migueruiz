@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miguel Vico</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miguel Ángel</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-Stack+Software+Developer;A+passionate+Programmer&center=true&width=500&height=50">
 </p>
@@ -12,7 +12,7 @@
   
   - 🔭 I’m currently working on **personal projects**
   
-  - 🌱 I’m currently learning **JavaScript**
+  - 🌱 I’m currently learning **Python**
   
   - 💻 All of my projects are available at []( )
 </p>
@@ -112,8 +112,8 @@
 <!-- Stats Section -->
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuelvico0102&show_icons=true&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuelvico0102&theme=highcontrast" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=migueruiz&show_icons=true&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueruizo0102&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
 
