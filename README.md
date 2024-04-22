@@ -58,9 +58,6 @@
 <!-- Connect Section -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 <p align="center">
- <a href="https://migueruiz.github.io/" target="blank">
-  <img src="https://skillicons.dev/icons?i=?" alt="website" />
- </a>
  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
  </a>
