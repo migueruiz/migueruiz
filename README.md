@@ -30,6 +30,10 @@
       <br>C++
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="32" height="32"/>
+      <br>Django
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="32" height="32" />
       <br>Python
     </td>
