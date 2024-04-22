@@ -59,7 +59,7 @@
 <h3 align="center">🤝Connect with Me🤝</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
  </a>
  <a href="mailto:mruiz8122001@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
