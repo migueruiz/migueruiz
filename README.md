@@ -21,75 +21,25 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Languages Section -->
-### Languages and Tools
-#### Backend
-[![My Skills](https://skillicons.dev/icons?i=cpp,django,python,java,php)](https://skillicons.dev)
+### Languages 
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,php,js)](https://skillicons.dev)
 
-#### Frontend
-<table align="center">
-  <tr height="80">
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="32" height="32" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="32" height="32" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="32" height="32" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="32" height="32"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="32" height="32" />
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
+### Framworks
+[![My Skills](https://skillicons.dev/icons?i=django,react,bootstrap)](https://skillicons.dev)
 
-#### Database
-<table align="center">
-  <tr height="80">
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="32" height="32"/>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="32" height="32" />
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
+### Web
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-#### Tools
-<table align="center">
-  <tr height="80">
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="32" height="32"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="32" height="32" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="32" height="32" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="32" height="32" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="32" height="32" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
+
+### OS
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
