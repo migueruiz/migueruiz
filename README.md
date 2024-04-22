@@ -113,7 +113,7 @@
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=migueruiz&show_icons=true&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueruizo0102&theme=highcontrast" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueruiz&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
 
@@ -122,7 +122,7 @@
 <!-- Connect Section -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 <p align="center">
- <a href="https://manuelvico0102.github.io/" target="blank">
+ <a href="https://migueruiz.github.io/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="website" />
  </a>
  <a href="https://www.linkedin.com/in/manuel-v-7620ba122/" target="_blank">
@@ -133,8 +133,8 @@
  </a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=manuelvico0102">
-  <img align="right" src="https://komarev.com/ghpvc/?username=manuelvico0102&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=migueruiz">
+  <img align="right" src="https://komarev.com/ghpvc/?username=migueruiz&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
