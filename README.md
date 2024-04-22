@@ -23,32 +23,7 @@
 <!-- Languages Section -->
 ### Languages and Tools
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-<table align="center">
-  <tr height="80">
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="32" height="32"/>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" alt="icon" width="32" height="32"/>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="32" height="32" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="32" height="32" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" alt="icon" width="32" height="32" />
-      <br>PHP
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=cpp,django,Python,Java,php)](https://skillicons.dev)
 
 #### Frontend
 <table align="center">
