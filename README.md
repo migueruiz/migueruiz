@@ -59,7 +59,7 @@
 <h3 align="center">🤝Connect with Me🤝</h3>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,gmail)](https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/,mailto:mruiz8122001@gmail.com)
 
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mruiz8122001@gmail.com)
