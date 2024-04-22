@@ -22,25 +22,25 @@
 
 <!-- Languages Section -->
 ### Languages 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,php,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,php,js,ts&theme=dark)](https://skillicons.dev)
 
 ### Framworks
-[![My Skills](https://skillicons.dev/icons?i=django,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,react,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,nginx&theme=dark)](https://skillicons.dev)
 
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,md,sublime,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,cmake,md,sublime,vim&theme=dark)](https://skillicons.dev)
 
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,windows&theme=dark)](https://skillicons.dev)
 
 ### Team
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail,link&theme=darkedin)](https://skillicons.dev)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -59,10 +59,10 @@
 <h3 align="center">🤝Connect with Me🤝</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=li&theme=darknkedin"/>
  </a>
  <a href="mailto:mruiz8122001@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/>
+  <img src="https://skillicons.dev/icons?i=&theme=darkgmail" alt="gmail"/>
  </a>
 </p>
 
