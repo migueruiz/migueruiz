@@ -58,25 +58,18 @@
 <!-- Connect Section -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 <p align="center">
- <a href="https://migueruiz.github.io/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="website" />
- </a>
- <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
- </a>
- <a href="mailto:mruiz8122001@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
- </a>
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/)
+
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mruiz8122001@gmail.com)
+
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=migueruiz">
   <img align="right" src="https://komarev.com/ghpvc/?username=migueruiz&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/)
-
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mruiz8122001@gmail.com)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
