@@ -40,7 +40,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ubuntu,windows&theme=dark)](https://skillicons.dev)
 
 ### Team
-[![My Skills](https://skillicons.dev/icons?i=discord,gmail,link&theme=darkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,gmail,linkedin&theme=dark)](https://skillicons.dev)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
