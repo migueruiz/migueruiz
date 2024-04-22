@@ -125,10 +125,10 @@
  <a href="https://migueruiz.github.io/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="website" />
  </a>
- <a href="https://www.linkedin.com/in/manuel-v-7620ba122/" target="_blank">
+ <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
  </a>
- <a href="mailto:manuel.vico0102@gmail.com">
+ <a href="mailto:mruiz8122001@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
  </a>
 </p>
