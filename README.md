@@ -73,5 +73,10 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=migueruiz&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/miguel-%C3%A1ngel-ruiz-bustos-557430201/)
+
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mruiz8122001@gmail.com)
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
