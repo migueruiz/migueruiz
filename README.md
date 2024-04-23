@@ -14,7 +14,7 @@
   
   - 🌱 I’m currently learning **Python**
   
-  <!-- - 💻 All of my projects are available at []( )-->
+  <!-- - f💻 All of my projects are available at []( )-->
 </p>
 
 
