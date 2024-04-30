@@ -5,7 +5,7 @@
 
 
 <!-- About Section -->
-### About mee
+### About me
 <p align="center">
   
   - 👨‍💻 I am pursuing studies in computer engineering at the University of Granada
